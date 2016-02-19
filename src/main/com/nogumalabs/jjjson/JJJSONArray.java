@@ -7,4 +7,5 @@ public class JJJSONArray extends JJJSON {
     public JJJSONArray(JSONArray rawValue) {
         this.rawValue = rawValue;
     }
+    // TODO: add iterator and getter by index.
 }
